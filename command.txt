@@ -1,0 +1,5 @@
+sudo /opt/lampp/lampp start
+
+alias pmaStart="sudo /opt/lampp/lampp start"
+
+alias pmaStop="sudo /opt/lampp/lampp stop" 
